@@ -1,0 +1,10 @@
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\bin\Debug\OCRDEmo.exe.config
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\bin\Debug\OCRDEmo.exe
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\bin\Debug\OCRDEmo.pdb
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\bin\Debug\Newtonsoft.Json.dll
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\bin\Debug\Newtonsoft.Json.xml
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\obj\Debug\OCRDEmo.csproj.CoreCompileInputs.cache
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\obj\Debug\OCRDEmo.exe
+d:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\obj\Debug\OCRDEmo.pdb
+D:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\bin\Debug\System.Net.Http.Formatting.dll
+D:\Personal\Documents\Visual Studio 2017\Projects\OCRDEmo\OCRDEmo\obj\Debug\OCRDEmo.csproj.OCRDEmo.exe.config
